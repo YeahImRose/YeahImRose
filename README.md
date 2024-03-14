@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **YeahImRose/YeahImRose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello! ようこそ！
+Hi, I'm Rose! I'm a largely self-taught programmer who's been programming since 2012.
+
+こんにちは！ロズです！よろしくお願いします！僕は2012年から主に一人でプログラミングを独学しています。
+
+## Contact Me! ✉
+<roselizknecht@gmail.com>
+
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahimrose&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=7&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeahimrose&show_icons=true&theme=radical&hide_border=true)
