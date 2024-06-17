@@ -22,5 +22,5 @@ Hi, I'm Rose! I'm a largely self-taught programmer who's been programming since 
 <roselizknecht@gmail.com>
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahimrose&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=7&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahimrose&layout=donut&size_weight=0.2&count_weight=0.85&langs_count=7&theme=radical&hide_border=true&hide=cmake,makefile)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeahimrose&show_icons=true&theme=radical&hide_border=true)
