@@ -18,8 +18,6 @@ Hi, I'm Rose! I'm a largely self-taught programmer who's been programming since 
 
 こんにちは！ロズです！よろしくお願いします！僕は2012年から主に一人でプログラミングを独学しています。
 
-## Contact Me! ✉
-<roselizknecht@gmail.com>
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahimrose&layout=donut&size_weight=0.2&count_weight=0.85&langs_count=5&theme=radical&hide_border=true&hide=cmake,makefile,c)
